@@ -30,46 +30,45 @@
     <session id="-1795462084">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="10" />
+          <entry key="cs" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="10" />
+          <entry key="C#" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1090" />
+          <entry key="cs" value="2324" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1090" />
+          <entry key="C#" value="2324" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/scripts/HelpFreeScript.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/scripts/ScriptsUsedNow/ChoiceScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state relative-caret-position="90">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding>
-                <marker date="1552382052653" expanded="true" signature="6:113" ph="..." />
-                <marker date="1552382052653" expanded="true" signature="119:514" ph="/* HOW I THINK IT SHOULD WORK?? ... */" />
-                <marker date="1552382052653" expanded="true" signature="590:774" ph="{...}" />
-                <marker date="1552382052653" expanded="true" signature="672:693" ph="{...}" />
-                <marker date="1552382052653" expanded="true" signature="751:772" ph="{...}" />
+                <marker date="1553136349271" expanded="false" signature="6:113" ph="..." />
+                <marker date="1553136349271" expanded="true" signature="156:248" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -89,16 +88,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/scripts/DiscardedScripts/MainManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="262">
+              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
               <folding>
-                <marker date="1552378408361" expanded="false" signature="6:160" ph="..." />
-                <marker date="1552378408361" expanded="true" signature="202:590" ph="{...}" />
-                <marker date="1552378408361" expanded="true" signature="209:363" ph="/* public questionManager[] questions; ... */" />
-                <marker date="1552378408361" expanded="true" signature="381:588" ph="{...}" />
-                <marker date="1552378408361" expanded="true" signature="395:564" ph="/* if (_unansweredQuestions == null || _unansweredQuestions.Count == 0) ... */" />
+                <marker date="1553530019945" expanded="true" signature="6:207" ph="..." />
+                <marker date="1553530019945" expanded="true" signature="249:2996" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="597:706" ph="/* private static List&lt;questionManager&gt; _unansweredQuestions; ... */" />
+                <marker date="1553530019945" expanded="true" signature="724:1015" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="1034:2994" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="1113:1156" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="1249:1402" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="1503:1636" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="1709:1842" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="1889:2979" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="1978:2051" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="2068:2141" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="2239:2470" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="2487:2956" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="2569:2742" ph="{...}" />
+                <marker date="1553530019945" expanded="true" signature="2763:2941" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -125,7 +136,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/HelpFreeScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/ScriptsUsedNow/ChoiceScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/DiscardedScripts/questionManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/DiscardedScripts/textOne.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/DiscardedScripts/MainManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -139,6 +150,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/textOne.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ChoiceScript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/HelpFreeScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ScriptsUsedNow/ChoiceScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/DiscardedScripts/MainManager.cs" />
       </list>
     </option>
   </component>
@@ -151,8 +164,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="135" />
     <option name="y" value="23" />
-    <option name="width" value="711" />
-    <option name="height" value="381" />
+    <option name="width" value="1056" />
+    <option name="height" value="686" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -160,13 +173,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,11 +227,13 @@
       <updated>1551368222745</updated>
       <workItem from="1551368229520" duration="1071000" />
       <workItem from="1552374749573" duration="5298000" />
+      <workItem from="1553135573219" duration="3995000" />
+      <workItem from="1553528854977" duration="1153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6369000" />
+    <option name="totallyTimeSpent" value="11517000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -230,10 +245,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="23" width="711" height="381" extended-state="0" />
+    <frame x="135" y="23" width="1056" height="686" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.4245142" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.42406312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -278,40 +293,34 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Button.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/scripts/textManager.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/scripts/gameManager.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/scripts/Button.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/scripts/textOne.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/textManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/gameManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/Button.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/textOne.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/MainManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/questionManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/ChoiceScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/HelpFreeScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/ScriptsUsedNow/ChoiceScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <marker date="1553136349271" expanded="false" signature="6:113" ph="..." />
+            <marker date="1553136349271" expanded="true" signature="156:248" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/scripts/MainManager.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/scripts/DiscardedScripts/questionManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/scripts/questionManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/scripts/ChoiceScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state>
+          <folding>
+            <marker date="1552379034216" expanded="false" signature="6:91" ph="..." />
+            <marker date="1552379034216" expanded="true" signature="137:515" ph="{...}" />
+            <marker date="1552379034216" expanded="true" signature="351:513" ph="{...}" />
+            <marker date="1552379034216" expanded="true" signature="486:507" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -330,39 +339,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/scripts/DiscardedScripts/MainManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="262">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
           <folding>
-            <marker date="1552378408361" expanded="false" signature="6:160" ph="..." />
-            <marker date="1552378408361" expanded="true" signature="202:590" ph="{...}" />
-            <marker date="1552378408361" expanded="true" signature="209:363" ph="/* public questionManager[] questions; ... */" />
-            <marker date="1552378408361" expanded="true" signature="381:588" ph="{...}" />
-            <marker date="1552378408361" expanded="true" signature="395:564" ph="/* if (_unansweredQuestions == null || _unansweredQuestions.Count == 0) ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/scripts/DiscardedScripts/questionManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1552379034216" expanded="false" signature="6:91" ph="..." />
-            <marker date="1552379034216" expanded="true" signature="137:515" ph="{...}" />
-            <marker date="1552379034216" expanded="true" signature="351:513" ph="{...}" />
-            <marker date="1552379034216" expanded="true" signature="486:507" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/scripts/HelpFreeScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-          <folding>
-            <marker date="1552382052653" expanded="true" signature="6:113" ph="..." />
-            <marker date="1552382052653" expanded="true" signature="119:514" ph="/* HOW I THINK IT SHOULD WORK?? ... */" />
-            <marker date="1552382052653" expanded="true" signature="590:774" ph="{...}" />
-            <marker date="1552382052653" expanded="true" signature="672:693" ph="{...}" />
-            <marker date="1552382052653" expanded="true" signature="751:772" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="6:207" ph="..." />
+            <marker date="1553530019945" expanded="true" signature="249:2996" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="597:706" ph="/* private static List&lt;questionManager&gt; _unansweredQuestions; ... */" />
+            <marker date="1553530019945" expanded="true" signature="724:1015" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="1034:2994" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="1113:1156" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="1249:1402" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="1503:1636" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="1709:1842" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="1889:2979" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="1978:2051" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="2068:2141" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="2239:2470" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="2487:2956" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="2569:2742" ph="{...}" />
+            <marker date="1553530019945" expanded="true" signature="2763:2941" ph="{...}" />
           </folding>
         </state>
       </provider>
