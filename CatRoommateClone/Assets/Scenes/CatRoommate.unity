@@ -155,9 +155,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 480f45c62edd2428aba9f37295fc4429, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  QuestionText: '"Don''t you hate birds?"'
-  Choice01: The most
-  Choice02: Not Rly
+  QuestionText: What color are tennis balls, really?
+  Choice01: Green
+  Choice02: Yellow
 --- !u!1 &221197566
 GameObject:
   m_ObjectHideFlags: 0
@@ -288,8 +288,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 236072713}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.48, y: -1.42, z: 0}
-  m_LocalScale: {x: 1.205, y: 1.462, z: 1}
+  m_LocalPosition: {x: 5.2, y: -0.87, z: 0}
+  m_LocalScale: {x: 1.3014001, y: 1.7105399, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
@@ -488,7 +488,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.735849, g: 0.43387324, b: 0.5723113, a: 0}
+  m_BackGroundColor: {r: 0.6320754, g: 0.20572266, b: 0.27818903, a: 0}
   m_projectionMatrixMode: 1
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
@@ -577,9 +577,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 480f45c62edd2428aba9f37295fc4429, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  QuestionText: '"How do you feel about naps?"'
-  Choice01: Love 'em
-  Choice02: Hate 'em
+  QuestionText: Is the grass always greener on the other side?
+  Choice01: No
+  Choice02: Uh, maybe?
 --- !u!1 &685294292
 GameObject:
   m_ObjectHideFlags: 0
@@ -623,9 +623,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 480f45c62edd2428aba9f37295fc4429, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  QuestionText: '"Are you allergic to cats?"'
-  Choice01: Nope
-  Choice02: A little
+  QuestionText: What is the past tense of read?
+  Choice01: read
+  Choice02: red
 --- !u!1 &748079895
 GameObject:
   m_ObjectHideFlags: 0
@@ -669,9 +669,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 480f45c62edd2428aba9f37295fc4429, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  QuestionText: '"Are you a night owl or an early riser?"'
-  Choice01: Night Owl
-  Choice02: Early Bird
+  QuestionText: What is your favorite color?
+  Choice01: Blue
+  Choice02: Green
 --- !u!1 &1048842773
 GameObject:
   m_ObjectHideFlags: 0
@@ -785,7 +785,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 16, y: -66}
+  m_AnchoredPosition: {x: -22.40001, y: -66.00001}
   m_SizeDelta: {x: 150.4, y: 45.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1071470599
@@ -939,9 +939,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 480f45c62edd2428aba9f37295fc4429, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  QuestionText: '"What do you like on yr pizza?'
-  Choice01: Anchovies
-  Choice02: Veggies
+  QuestionText: Do you slow down at yellow traffic lights?
+  Choice01: Of course!
+  Choice02: No way!
 --- !u!1 &1440482078
 GameObject:
   m_ObjectHideFlags: 0
@@ -976,7 +976,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -153, y: -66}
+  m_AnchoredPosition: {x: -172.8, y: -66.00001}
   m_SizeDelta: {x: 150.4, y: 45.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1440482080
@@ -1064,10 +1064,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 480f45c62edd2428aba9f37295fc4429, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  QuestionText: '"I have a fully furnished 2 bedroom & I need a roommate! Just a few
-    questions tho..."'
-  Choice01: Great!
-  Choice02: Okay...
+  QuestionText: Quick! Answer these questions to disarm the bomb!
+  Choice01: Alright!
+  Choice02: I dont know...
 --- !u!1 &1535691065
 GameObject:
   m_ObjectHideFlags: 0
@@ -1246,7 +1245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 480f45c62edd2428aba9f37295fc4429, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  QuestionText: '"Can I have some belly rubs?"'
+  QuestionText: Do I look good in purple?
   Choice01: YEP
   Choice02: IDK
 --- !u!1 &1791681043

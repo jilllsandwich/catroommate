@@ -47,12 +47,12 @@ public class MainManager : MonoBehaviour
 
     void Update()
     {
-        int _time = (int) (Explode - Time.time);
-        if (_time <= 0)
+        int time = (int) (Explode - Time.time);
+        if (time <= 0)
         {
-            _time = 0;
+            time = 0;
         }
-        SplodeText.text = ":0" + _time;
+        SplodeText.text = ":0" + time;
         if (Explode < Time.time && _gameEnd == false)
         {
             Question.text = "We exploded! And worse: you lost!";
@@ -100,7 +100,7 @@ public class MainManager : MonoBehaviour
                 _gameEnd = true;
                 if (_totalScore > 0)
                 {
-                    Question.text = "Let's be roommates!";
+                    Question.text = "Surprisingly, you did it!";
                     Choice1.text = "";
                     Choice2.text = "";
                 }
