@@ -7,12 +7,12 @@
         <e p="scripts" t="Include">
           <e p="DiscardedScripts" t="Include">
             <e p="Button.cs" t="Include" />
-            <e p="MainManager.cs" t="Include" />
             <e p="questionManager.cs" t="Include" />
             <e p="textOne.cs" t="Include" />
           </e>
           <e p="ScriptsUsedNow" t="Include">
             <e p="ChoiceScript.cs" t="Include" />
+            <e p="MainManager.cs" t="Include" />
           </e>
         </e>
         <e p="TextMesh Pro" t="Include">
